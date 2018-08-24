@@ -1,0 +1,13 @@
+.dashboard-card h1,p {
+   color: #ffffff;
+    margin-bottom: 0;
+}
+.dashboard-card{
+    border-radius: 5px;
+}
+.cardRecentPosts{
+    margin-top: 20px;
+}
+.cardRecentPosts .ant-card-body{
+    padding-bottom: 0 !important;
+}

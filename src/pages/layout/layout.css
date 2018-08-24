@@ -1,0 +1,23 @@
+.trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    color: #ffffff;
+    transition: color .3s;
+}
+
+.logo {
+    height: 64px;
+    background: #1890ff;
+    margin-bottom: 16px;
+    text-align: center;
+    padding-top: 16px;
+
+}
+.logo-name{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+

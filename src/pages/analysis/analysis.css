@@ -1,0 +1,22 @@
+.row-card{
+    height: 200px;
+}
+
+.row-card h1{
+    color: #000000;
+    margin-bottom: 0;
+    font-size: 30px;
+}
+.row-card hr{
+    border-color: #e8e8e840;
+    margin: 10px 0 10px 0;
+
+}
+.row-card p{
+    color: #595959;
+    margin-bottom: 0;
+
+}
+.item-name{
+    margin: 0 70px 0 50px;
+}

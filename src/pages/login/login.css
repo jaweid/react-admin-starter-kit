@@ -1,0 +1,48 @@
+.img {
+    height: 100vh;
+    width: 100vw;
+}
+.login-container{
+    top:20vh;
+    left: 40vw;
+    position: absolute;
+    text-align: center;
+
+    padding: 60px 40px 40px 40px;
+    backface-visibility: hidden;
+    background: linear-gradient(230deg, rgba(53, 57, 74, 0) 0%, rgb(0, 0, 0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(53, 57, 74, 0)', endColorstr='rgb(0, 0, 0)',GradientType=1 );
+    box-shadow: -15px 15px 15px rgba(0,0,0,.4);
+    transition: all 1s;
+    border-radius: 5%;
+}
+.login-form {
+  margin: 10px 0;
+}
+.login-form .ant-input{
+  background-color: transparent;
+    color: #ffffff;
+
+}
+.login-form-forgot {
+    float: right;
+}
+
+.login-form-button {
+    width: 100%;
+}
+.remember-me{
+    float: left;
+}
+.title{
+    font-weight: 100;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.footer{
+    font-size: 10px;
+    font-weight: 100;
+}
+.text-white{
+    color: #ffffff;
+}
