@@ -17,4 +17,4 @@ npm run start
 
 ### 预览
 
-![image](https://raw.githubusercontent.com/jiaweixianxian/Ionic3-Angular5-XianYu/master/blob/4.png)
+![image](https://raw.githubusercontent.com/jiaweixianxian/react-admin-starter-kit/master/blob/1.png)
